@@ -1,0 +1,8 @@
+C:\AutomationFolder\PW_E2E_Project\pages_n\RegistrationPage.ts:51
+  async enterPasswordCfrm(pwdcfrm) {
+                         ^
+
+RangeError: Maximum call stack size exceeded
+(Use `node --trace-uncaught ...` to show where the exception was thrown)
+
+Node.js v22.15.0

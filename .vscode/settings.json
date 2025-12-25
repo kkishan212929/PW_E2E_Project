@@ -1,0 +1,9 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+    "editor.inlineSuggest.edits.showCollapsed": true
+}
