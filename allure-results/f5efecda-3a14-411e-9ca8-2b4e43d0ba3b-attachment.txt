@@ -1,0 +1,8 @@
+{
+  firstname: 'Bonnie',
+  lastname: 'Wilderman',
+  totalprice: 1692,
+  depositpaid: true,
+  bookingdates: { checkin: '2025-12-26', checkout: '2025-12-31' },
+  additionalneeds: 'super bowls'
+}
