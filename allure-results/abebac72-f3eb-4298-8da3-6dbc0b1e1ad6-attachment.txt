@@ -1,0 +1,11 @@
+{
+  firstname: 'Teresa',
+  lastname: 'Hodkiewicz',
+  totalprice: 1693,
+  depositpaid: false,
+  bookingdates: {
+    checkin: '2025-54-26',
+    checkout: DateTime { ts: 2025-12-31T10:54:16.504+05:30, zone: Asia/Calcutta, locale: en-IN }
+  },
+  additionalneeds: 'super bowls'
+}

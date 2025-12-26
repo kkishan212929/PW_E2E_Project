@@ -1,0 +1,11 @@
+{
+  firstname: 'Jesse',
+  lastname: 'Quigley',
+  totalprice: 3044,
+  depositpaid: false,
+  bookingdates: {
+    checkin: '2025-52-26',
+    checkout: DateTime { ts: 2025-12-31T10:52:18.091+05:30, zone: Asia/Calcutta, locale: en-IN }
+  },
+  additionalneeds: 'super bowls'
+}

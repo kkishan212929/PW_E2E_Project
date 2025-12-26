@@ -1,0 +1,11 @@
+{
+  firstname: 'Isac',
+  lastname: 'Greenfelder',
+  totalprice: 4503,
+  depositpaid: true,
+  bookingdates: {
+    checkin: '2025-12-26',
+    checkout: DateTime { ts: 2025-12-31T10:56:16.230+05:30, zone: Asia/Calcutta, locale: en-IN }
+  },
+  additionalneeds: 'super bowls'
+}
